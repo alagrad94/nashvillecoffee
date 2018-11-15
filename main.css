@@ -1,8 +1,8 @@
-/* body {
+body {
     display: flex;
     flex-direction: column;
     justify-content: center;
-} */
+}
 header {
     display: flex;
     text-align: center;
